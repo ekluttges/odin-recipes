@@ -1,0 +1,24 @@
+/* * {
+    outline: 2px solid rgb(232, 232, 237);
+} 
+ */
+body {
+    background-color: slategray;
+}
+
+li {
+    padding: 5px;
+}
+
+.box {
+    color:  #2e4053;
+    padding: 10px;
+    text-align: center;
+    background-color: sandybrown;
+}
+
+.list {
+    text-align: left;
+    color: #d35400 ;
+    margin: 10px;
+}
