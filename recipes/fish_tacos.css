@@ -1,6 +1,42 @@
+
+body {
+    background-color: rgb(181, 221, 192);
+}
+
 h1 {
     color:rgb(240, 203, 54);
     background-color: rgb(9, 42, 72);
     width: 11rem;
     text-align:center;
+}
+
+/* p {
+
+} */
+
+h2 {
+    color: rgb(255, 214, 190);
+    background-color: rgb(97, 21, 38);
+    text-align: left;
+}
+
+h3 {
+    color: rgb(13, 71, 71);
+}
+
+ul {
+    background-color: rgb(121, 85, 55);
+    border-width: 5px;
+    border-color: red;
+}
+
+ol {
+    background-color: rgb(121, 94, 21);
+}
+
+ul,
+ol,
+img {
+    margin: 5px;
+    outline: solid medium rgb(49, 21, 2);
 }
