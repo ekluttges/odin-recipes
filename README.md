@@ -1,4 +1,4 @@
-This is my first HTML project where I will program the structure of a webpage using all the knowledge I learned in The Odin Project.
+This is my first HTML project where I will program the structure of a webpage using all the knowledge I learnt in The Odin Project.
 
 Objective: 
 
